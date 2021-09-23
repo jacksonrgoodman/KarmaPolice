@@ -1,0 +1,3 @@
+def cursor():
+    print()
+    print(">")
